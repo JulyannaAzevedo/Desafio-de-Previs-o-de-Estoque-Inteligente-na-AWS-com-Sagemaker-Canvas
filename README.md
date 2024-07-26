@@ -4,4 +4,4 @@ Neste Lab da DIO, é a oportunidade de aplicar conceitos práticos de Machine Le
 
 **Objetivo:** Desenvolver um modelo de previsão de estoque utilizando o SageMaker Canvas e documentar o processo em um repositório no GitHub.
 
-*Obs:* Tive problemas com a conta da AWS e relsolvi fazer codificando mesmo
+*Obs:* Tive problemas com a conta da AWS e resolvi fazer codando mesmo.
