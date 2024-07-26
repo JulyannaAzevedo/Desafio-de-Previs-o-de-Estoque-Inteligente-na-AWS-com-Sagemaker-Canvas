@@ -1,0 +1,1 @@
+# Desafio-de-Previs-o-de-Estoque-Inteligente-na-AWS-com-Sagemaker-Canvas
